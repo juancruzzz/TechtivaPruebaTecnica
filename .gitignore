@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+**/*.cache
+**/*.log
+**/*.pdb
+**/*.tmp
+
+# Output
+bin/
+obj/
+Debug/
+Release/
+TestResults/
+
+# npm
+node_modules/
+package-lock.json
+yarn.lock
+
+# Visual Studio Code
+.vscode/
+
+# Otros
+*.log
+*.lock
